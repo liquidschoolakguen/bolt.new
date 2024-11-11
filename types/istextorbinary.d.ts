@@ -4,7 +4,7 @@
  */
 declare module 'istextorbinary' {
   export interface EncodingOpts {
-    /** Defaults to 24 */
+    /** Defaults to 24 *///
     chunkLength?: number;
 
     /** If not provided, will check the start, beginning, and end */
